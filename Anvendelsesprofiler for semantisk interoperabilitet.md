@@ -1,4 +1,4 @@
-# Bilag A -- Anvendelsesprofiler for semantisk interoperabilitet {#bilag-a-anvendelsesprofiler-for-semantisk-interoperabilitet}
+# Anvendelsesprofiler for semantisk interoperabilitet {#bilag-a-anvendelsesprofiler-for-semantisk-interoperabilitet}
 
 I EU-regi defineres anvendelsesprofil blandt andet i *SEMIC Style Guide
 for Semantic Engineers* [^1]. Definitionen er her oversat fra engelsk
